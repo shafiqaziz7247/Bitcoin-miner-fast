@@ -1,0 +1,2 @@
+# Bitcoin-miner-fast
+Btcfast
